@@ -1,4 +1,4 @@
-# licen-as
+# licenças
 Algumas informações
 Neste final do modulo 1, tive acesso as informaçoes dos tipos de licenças de uso da estrutura dos serviços oferecidos pela microsoft.
 onde detalha  quais recursos serão utilizados na empresa, se seria apenas utilização de software, utilização de software e controle de configurações ou utilização de software, controle de configurações e total acessoa parte fisica das maquinas.
